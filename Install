@@ -10,9 +10,9 @@
     echo -e "\033[1;32mINICIANDO BOT TESTE \033[0m\n"
     cd $HOME/BOT
     rm -rf $HOME/BOT/botssh
-    wget https://raw.githubusercontent.com/rogertek19/painelweb/main/botssh >/dev/null 2>&1
+    wget https://raw.githubusercontent.com/zshroot70/bot_ssh/refs/heads/main/botssh >/dev/null 2>&1
     rm -rf $HOME/ShellBot.sh
-    wget https://raw.githubusercontent.com/rogertek19/painelweb/main/ShellBot.sh >/dev/null 2>&1
+    wget https://raw.githubusercontent.com/zshroot70/bot_ssh/refs/heads/main/ShellBot.sh >/dev/null 2>&1
     chmod 777 botssh 
     chmod 777 ShellBot.sh
     echo ""
