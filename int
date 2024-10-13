@@ -1,0 +1,6 @@
+#!/bin/bash
+apt update && apt install wget curl git unzip -y
+wget https://github.com/zshroot70/bot_ssh/archive/refs/heads/main.zip
+unzip main.zip
+chmod +x bot_ssh-main/Install
+./bot_ssh-main/Install
