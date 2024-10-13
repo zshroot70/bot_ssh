@@ -1,6 +1,6 @@
 bot telegram ssh
 
-primeiro instalei o script ssh da tua preferencia
+primeiro instale o script ssh da tua preferencia
 
 após isntalar execute:
 
